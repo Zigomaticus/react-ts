@@ -1,1 +1,1 @@
-React-typescript
+Учим typescript
